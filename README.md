@@ -1,8 +1,1 @@
 # CineMaxCOL-C-
-
-
-
-
-
-
-Commit
